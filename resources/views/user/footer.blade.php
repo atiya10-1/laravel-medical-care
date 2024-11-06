@@ -45,7 +45,7 @@
         <!-- Centered Developer Info -->
         <div class="text-center mt-3">
             <p><b><q>Developed By <span class="text-danger">Atiya Shoukat</span></q></b></p>
-        </div>cd path\to\your\project
+                </div>
 
     </div>
 </footer>
