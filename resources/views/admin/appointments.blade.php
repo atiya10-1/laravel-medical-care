@@ -1,0 +1,5 @@
+@include('admin.header')
+@include('admin.sidebar')
+ @include('admin.navbar')
+ @include('admin.footer')
+@include('admin.script')

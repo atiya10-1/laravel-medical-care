@@ -1,0 +1,6 @@
+@include('author.header')
+@include('author.sidebar')
+ @include('author.navbar')
+ @include('author.content')
+ @include('author.footer')
+@include('author.script')
